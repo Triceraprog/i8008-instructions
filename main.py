@@ -1,6 +1,6 @@
 """ This program generates all opcodes for the old and new syntax of the Intel 8008 processor.
 
-Two sources files are generated: one with the old syntax and one with the new syntax.
+Two source files are generated: one with the old syntax and one with the new syntax.
 One output file is generated with the resulting binary code.
 
 It is aimed as input for assemblers for this processor.
